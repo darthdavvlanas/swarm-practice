@@ -1,0 +1,10 @@
+.env
+key.json
+variables.tf
+.terraform
+*.tfstate
+*.tfstate.*
+*.tfstate.backup
+.terraform.tfstate.lock.info
+*.tfvars
+*.tfvars.json
